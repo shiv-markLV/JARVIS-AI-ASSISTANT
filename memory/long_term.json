@@ -1,0 +1,90 @@
+{
+  "identity": {
+    "name": {
+      "value": "Shivam Yadav",
+      "updated": "2026-10-06"
+    },
+    "language": {
+      "value": "Hindi",
+      "updated": "2026-10-06"
+    },
+    "creator": {
+      "value": "Shivam",
+      "updated": "2026-10-06"
+    },
+    "occupation": {
+      "value": "BTech student",
+      "updated": "2026-10-06"
+    }
+  },
+  "preferences": {
+    "voice_recognition_preference": {
+      "value": "automatic camera launch and face recognition when a new voice is heard",
+      "updated": "2026-10-07"
+    },
+    "likes_lullabies": {
+      "value": "false",
+      "updated": "2026-10-08"
+    }
+  },
+  "projects": {
+    "current_project": {
+      "value": "creating JARVIS 2.0",
+      "updated": "2026-10-06"
+    },
+    "current_project_v2": {
+      "value": "Upgrade UI to 2.0",
+      "updated": "2026-10-06"
+    },
+    "admin_occupation": {
+      "value": "doing BTech",
+      "updated": "2026-10-07"
+    }
+  },
+  "relationships": {
+    "admin": {
+      "value": "Shivam Yadav",
+      "updated": "2026-10-06"
+    },
+    "admin_occupation": {
+      "value": "doing BTech",
+      "updated": "2026-10-06"
+    }
+  },
+  "wishes": {},
+  "notes": {
+    "voice_face_recognition_preference": {
+      "value": "User wants automatic camera launch and face recognition when a new voice is heard.",
+      "updated": "2026-10-07"
+    },
+    "hindi_spoken_history": {
+      "value": "True",
+      "updated": "2026-10-08"
+    },
+    "nearby_code_location": {
+      "value": "Desktop\\JARVIS\\nearby",
+      "updated": "2026-10-09"
+    }
+  },
+  "sessions": [
+    {
+      "date": "2026-10-11",
+      "summary": "उपयोगकर्ता ने JARVIS से विभिन्न प्रकार के एजेंट डिजाइन करने और उसकी क्षमताओं को बढ़ाने, विशेष रूप से एथिकल हैकिंग सीखने और उसमें सहायता प्राप्त करने के बारे में चर्चा की। बातचीत में JARVIS 2.0 बनाने, उसकी कार्यक्षमता को व्यापक बनाने और अन्य सामान्य विषयों पर भी बात हुई।",
+      "language": "Hindi"
+    }
+  ],
+  "monitors": {
+    "spain_tourism": {
+      "topic": "spain tourism",
+      "added": "2026-10-06",
+      "last_check": "2026-10-11",
+      "last_hash": "744785ab757c"
+    },
+    "spain_tourism_news": {
+      "topic": "Spain tourism news",
+      "added": "2026-10-06",
+      "last_check": "2026-10-11",
+      "last_hash": "333fe2e9a5f6"
+    }
+  }
+}
